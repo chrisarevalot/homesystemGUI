@@ -1,4 +1,0 @@
-﻿1. When in Leave Home Mode all the sensors of the house are secured. A timer of 30 seconds will be started, enough for you to leave the house. Otherwise the alarm will go off and the security pin will be asked. 
-2. In Leave Home Mode, when opening the door another 30 seconds timer will be started, enough for you to input the passcode. Otherwise the alarm will go off. 
-3. When in Stay Home Mode the perimeter sensors of the house are secured. No timer will be started. 
-4. In Stay Home Mode if any sensor becomes unsecured (opened) the alarm will go off. A 30 second timer will start, enough for you to input the passcode. Otherwise a notification will be sent to the authorities.
