@@ -1,2 +1,1 @@
-# homesystemGUI
-Home Security GUI (in progress)
+## Home Security GUI (in progress)
