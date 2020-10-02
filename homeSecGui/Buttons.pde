@@ -1,7 +1,7 @@
 /* 
   Author: Christian Arevalo
   Project: Home Security System GUI
-  Date: 01/07/19
+  Date: 01/07/19 Edit
 */
 
 class Button      //Button Class lets create more buttons with specific characteristics.
