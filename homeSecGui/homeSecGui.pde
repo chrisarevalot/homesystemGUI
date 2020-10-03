@@ -6,6 +6,7 @@
   This Home Security GUI projects includes a buttons library.
   Including a main, security, settings, date/time, info, temperature, weather, and settings page. 
   *Line added to test the source control. *
+  *line added to test the branching in source control. *
   
 */
 
